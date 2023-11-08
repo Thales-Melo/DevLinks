@@ -1,5 +1,5 @@
 ## DevLinks
-Projeto realizado durante o treinamento Discover da RocketSeat em 7 de Novembro de 2023
+Projeto realizado durante o treinamento Discover da RocketSeat em 7 e 8 de Novembro de 2023
 
 ## Projeto
 Trata-se de um agregador de links para usar como cartão de visitas online.
